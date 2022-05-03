@@ -4,7 +4,7 @@
     "name": "PatrickNiyogitare",
     "email": "patrickniyogitare28@gmail.com"
   },
-  "description": "⚡ A vite react typescript boilerplate with pre-configured sass, redux-tool-kit, tailwind & jest... built in cli coming soon ⚒️",
+  "description": "Musik Net Web App",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
