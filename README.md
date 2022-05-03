@@ -13,7 +13,7 @@
 
 ## Live demo
 
-Click to view [The super vite live demo]()
+Click to view [The Demo](https://musik-net.vercel.app/)
 
 ## Getting started
 
