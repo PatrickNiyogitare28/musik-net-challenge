@@ -1,11 +1,11 @@
 import IRoute from '@interfaces/IRoute'
-import Counter from '../views/login'
+import LoginPage from '../views/login'
 
 const routes: IRoute[] = [
     {
         path: '/',
-        name: 'Counter Page',
-        component: Counter,
+        name: 'Login Page',
+        component: LoginPage,
         exact: true,
     },
 ]
