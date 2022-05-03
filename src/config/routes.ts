@@ -1,5 +1,5 @@
 import IRoute from '@interfaces/IRoute'
-import Counter from '../views/counter'
+import Counter from '../views/login'
 
 const routes: IRoute[] = [
     {
