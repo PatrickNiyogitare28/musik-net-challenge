@@ -11,7 +11,7 @@ const Counter: React.FC = () => {
     return (
         <div className='flex' style={{display:'flex', height:'100vh'}}>
            <div className='bg-red-500 h-[100vh]' style={{width:'50%',paddingTop:'5%'}}>
-           <div style={{padding:'15% 25%'}}>
+           <div style={{padding:'15% 22%'}}>
            <h1 style={{fontWeight:'bold', fontSize:'2em'}}>Login your account</h1>
            <LoginForm />
            </div>
@@ -24,7 +24,7 @@ const Counter: React.FC = () => {
                   <h1 style={{color: 'white', fontSize:'1.8em', textAlign:'center', fontWeight:'lighter'}}>Get the app.</h1>
               </div>
               <div style={{display:'flex', justifyContent:'space-around', marginTop:'2em'}}>
-              <div style={{width:'70%', display:'flex', justifyContent:'space-between'}}>
+              <div style={{width:'80%', display:'flex', justifyContent:'space-between'}}>
                 <img src={AppStoreIcon} alt="app store" />
                 <img src={PlayStoreIcon} alt="play store" />
               </div>
