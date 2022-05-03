@@ -1,25 +1,21 @@
-<h1 style="text-align: center">Super Vite ⚡</h1>
- A vite react typescript boilerplate with pre-configured <code>sass</code>, <code>redux-tool-kit</code>, <code>tailwind</code>, <code>esLint</code> <code>Prettier</code>, <code>i18n internationalization</code> &amp; <code>Dockerfile</code>... built in cli coming soon ⚒️
+<h1 style="text-align: center">Musik Net</h1>
  
- 
- This to get you ready with react vite develpment with zero configurations
+ The challenge serves to implement the Musik Net Web Application. 
+ > Musik Net is a mobile app that runs on IOs and Android
  
  
 <br>
 <br>
 
-![Builds Workflows](https://github.com/patrickniyogitare28/super-vite/actions/workflows/superlinter.yml/badge.svg)
+![Builds Workflows](https://github.com/patrickniyogitare28/musik-net-challenge/actions/workflows/superlinter.yml/badge.svg)
 
-## Documentation
 
-Click to access [The super vite documentation](https://doc-super-vite.vercel.app/)
 
 ## Live demo
 
-Click to view [The super vite live demo](https://super-vite.vercel.app/)
+Click to view [The super vite live demo]()
 
 ## Getting started
-Click `Use this template` to create the your own repo from the template
 
 Before you can start developing your awesome application you need to install the project's dependencies. Make sure you have Node (>= 10.13.0)
 
@@ -103,7 +99,7 @@ That object should be added in `routes` array, and that's all to be able to rout
 
 ### TypeScript
 
-Vite provides custom module resolvers.
+React Vite provides custom module resolvers.
 This means you can use absolute imports with custom namespaces by default for the following modules:
 
 You can define a new alias resolver in `vite.config.json` & `config-overrides.js`
